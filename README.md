@@ -12,3 +12,15 @@ This seemed impossible in the beginning. After spending a lot of time in the ins
 All the time I spent scraping the website could have been diverted more noble pursuits like scrolling Instagram for cat pictures.
 Anyway, extracting tags now was a trivial affair. 
 I extracted tags therefore earning my brownie points.
+
+
+### Usage
+To simply scrape data, 
+'''shell
+python3 scraping.py
+'''
+This returns a json file called 'orgs.json'
+To scrape and tag data,
+'''shell
+python3 scraping.py tags
+'''
