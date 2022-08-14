@@ -15,12 +15,9 @@ I extracted tags therefore earning my brownie points.
 
 
 ### Usage
-To simply scrape data, 
-'''shell
-python3 scraping.py
-'''
+To simply scrape data run python3 scraping.py
+
+
 This returns a json file called 'orgs.json'
-To scrape and tag data,
-'''shell
-python3 scraping.py tags
+To scrape and tag data run python3 scraping.py tags
 '''
